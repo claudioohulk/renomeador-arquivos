@@ -25,3 +25,13 @@ python renomeador_arquivos.py
 ## Gerar executável
 ```bash
 python -m PyInstaller --onefile --windowed renomeador_arquivos.py
+
+```
+## Observações
+Projeto criado para fins de aprendizado e uso prático.
+Sugestões e melhorias são bem-vindas!
+
+## Apoie o projeto
+Se este projeto te ajudou, considere apoiar o desenvolvimento 
+
+PIX: claudiooliveirahulk@gmail.com
